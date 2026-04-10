@@ -26,7 +26,7 @@ I wanted to save dated Dell Inspiron 6000 from becoming E-Waste. This is the pro
 
 | Item    | Source | Additional information | 
 | :-------- | :------- | :------- |
-| [Dell Inspiron 6000](docs/dell_esuprt_laptop_esuprt_inspiron_laptop_inspiron-6000_owner's manual_en-us.pdf) | Unused old laptop | Pentium M, 512MB RAM, 15.4" Screen |
+| [Dell Inspiron 6000](github.com/PatThePineapplePirate/laptop-digital-picture-frame-conversion/blob/main/docs/dell_esuprt_laptop_esuprt_inspiron_laptop_inspiron-6000_owner's manual_en-us.pdf) | Unused old laptop | Pentium M, 512MB RAM, 15.4" Screen |
 | Shadow Box Frame | Craft Store | 12" x 16" |
 | Mat Board | Col2Val3 | 12" x 16" but interior cut to fit screen size |
 | Wireless Keyboard and Dongle | Amazon, Best Buy, etc | I went with Logitech K400 Plus |
