@@ -24,6 +24,8 @@ I wanted to save dated Dell Inspiron 6000 from becoming E-Waste. This is the pro
 
 ## <a name="hardware"></a>Hardware
 
+I already owned the laptop and the wireless keyboard + dongle, so my only investment to finish the project was for a frame and mat. I made sure that the shadow box frame would fit the width, height, and depth of the laptop parts, and that the mat internal framing dimentions were slightly smaller than the laptop screen so I could cut it to size. These remaining materials cost around $40USD. 
+
 | Item    | Source | Additional information | 
 | :-------- | :------- | :------- |
 | [Dell Inspiron 6000](https://github.com/PatThePineapplePirate/laptop-digital-picture-frame-conversion/blob/main/docs/dell_esuprt_laptop_esuprt_inspiron_laptop_inspiron-6000_ownermanual_en-us.pdf) | Unused old laptop | Pentium M, 512MB RAM, 15.4" Screen |
@@ -36,6 +38,7 @@ I wanted to save dated Dell Inspiron 6000 from becoming E-Waste. This is the pro
 ## <a name="construction"></a>Construction
 
 ### <a name="disassembly"></a>Disassembly
+The first step was disassembling the bulky laptop to remove all the housing pieces. The <a href="https://www.ifixit.com/Device/Dell_Inspiron_6000">iFixit guide</a> and <a href="https://www.ifixit.com/Device/Dell_Inspiron_6000">Service Manual</a> were referenced, but disassembly was pretty straightforward. Extra care was taken with screen ribbon cables and wifi antennas, while the battery and keyboard were discarded. 
 
 <p align="center"><img alt="ifixit Dell Inspiron 6000 Image" src="/images/ifixit-dell-inspiron-6000.jpg" height="auto" width="auto"><br>
 Image source: <a href="https://www.ifixit.com/Device/Dell_Inspiron_6000">iFixit</a></p>
