@@ -49,7 +49,7 @@ Image source: <a href="https://www.ifixit.com/Device/Dell_Inspiron_6000">iFixit<
 > During this step I replaced the thermal paste on the processor by unscrewing the heat pipe/heatsink assembley on the CPU. This was completely unnecessary for the demands of the new photo frame, but I wanted to take the opportunity to explore since I don't frequently take laptops apart.
 
 ### <a name="mat-the-screen"></a>Mat the Screen
-I purchased a mat board that fit inside the shadow box frame but that had interior dimensions slightly smaller than my leptop screen. Using a utility knife and straight edge, I cut the mat to exactly fit the screen, then secured it and the wifi antennas in place with duct tape. 
+I purchased a mat board that fit inside the shadow box frame but that had interior dimensions slightly smaller than my laptop screen. Using a utility knife and straight edge, I cut the mat to exactly fit the screen, then secured it and the wifi antenna in place with duct tape. 
 
 I verified that the screen ribbon cables would connect and reach with the laptop hardware mounted behind the screen as if you had opened the laptop 360° like a 2-in-1.
 
