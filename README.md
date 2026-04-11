@@ -38,7 +38,7 @@ I already owned the laptop and the wireless keyboard + dongle, so my only invest
 ## <a name="construction"></a>Construction
 
 ### <a name="disassembly"></a>Disassembly
-The first step was disassembling the bulky laptop to remove all the housing pieces. The <a href="https://www.ifixit.com/Device/Dell_Inspiron_6000">iFixit guide</a> and <a href="https://www.ifixit.com/Device/Dell_Inspiron_6000">Service Manual</a> were referenced, but disassembly was pretty straightforward. Extra care was taken with screen ribbon cables and wifi antennas. The battery and keyboard were also disposed of with the frame pieces. 
+The first step was disassembling the bulky laptop to remove all the housing pieces. The <a href="https://www.ifixit.com/Device/Dell_Inspiron_6000">iFixit guide</a> and <a href="https://github.com/PatThePineapplePirate/laptop-digital-picture-frame-conversion/blob/main/docs/dell_esuprt_laptop_esuprt_inspiron_laptop_inspiron-6000_servicemanual_en-us.pdf">Service Manual</a> were referenced, but disassembly was pretty straightforward. Extra care was taken with screen ribbon cables and wifi antennas. The battery and keyboard were also disposed of with the frame pieces. 
 
 <p align="center"><img alt="ifixit Dell Inspiron 6000 Image" src="/images/ifixit-dell-inspiron-6000.jpg" height="auto" width="auto"><br>
 Image source: <a href="https://www.ifixit.com/Device/Dell_Inspiron_6000">iFixit</a></p>
